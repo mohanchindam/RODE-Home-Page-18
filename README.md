@@ -11,4 +11,4 @@
 ![RODE Home Page Preview](./RODE-Home-Page.png)
 
 Project is deployed on **Netlify**:
-- You can preview the project here, [**RODE Home Page**]()
+- You can preview the project here, [**RODE Home Page**](https://rode-home-page-18.netlify.app/)
